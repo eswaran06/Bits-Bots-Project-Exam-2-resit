@@ -27,6 +27,10 @@ p,
 menu {
   margin: 0;
 }
+h1 {
+
+  font-size: 50px;
+}
 a {
   text-decoration: none;
 }
@@ -261,7 +265,7 @@ p {
 /* ===============  1. Hader css Area start  ============== */
 
 .header_area {
-  background-color: #171a21;
+  background-color: #000000;
   padding: 10px 0;
 }
 .header_text {
@@ -648,10 +652,12 @@ p {
 }
 .product_text_area > button {
   width: 100%;
+  font-size: 18px;
+  font-weight: 600;
   text-align: center;
-  padding: 15px;
+  padding: 10px;
   border: 0;
-  color: #1a1d23;
+  color: #000;
   background: #80808094;
   transition: 0.3s;
 }
@@ -843,7 +849,7 @@ p {
   width: 100%;
   padding: 12px 15px;
   background-color: #c5c3c0;
-  color: #171a21;
+  color: #000000;
   border: 0;
   border: 1px solid gray;
   text-transform: uppercase;
@@ -853,7 +859,7 @@ p {
 }
 .inputBtn:hover {
   color: #c5c3c0;
-  background-color: #171a21;
+  background-color: #000000;
 }
 
 /* accout area start  */
@@ -937,5 +943,5 @@ p {
 }
 
 .contact-right li a {
-  color: #171a21;
+  color: #000000;
 }

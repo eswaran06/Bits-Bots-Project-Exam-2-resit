@@ -261,7 +261,7 @@ p {
 /* ===============  1. Hader css Area start  ============== */
 
 .header_area {
-  background-color: #171a21;
+  background-color: #000000;
   padding: 10px 0;
 }
 .header_text {
@@ -843,7 +843,7 @@ p {
   width: 100%;
   padding: 12px 15px;
   background-color: #c5c3c0;
-  color: #171a21;
+  color: #000000;
   border: 0;
   border: 1px solid gray;
   text-transform: uppercase;
@@ -853,7 +853,7 @@ p {
 }
 .inputBtn:hover {
   color: #c5c3c0;
-  background-color: #171a21;
+  background-color: #000000;
 }
 
 /* accout area start  */
