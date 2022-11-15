@@ -17,11 +17,7 @@ const Contact = () => {
           <div className="contact-left">
             <h2 className="contact-header">Bits & Bots</h2>
             <p className="about-text">
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-              Laudantium sint expedita dignissimos corrupti nihil ad voluptatum
-              magnam, optio vero rem sequi ab! Deleniti tempore magni eaque,
-              odit incidunt libero? Suscipit molestias magnam, architecto dolor
-              neque incidunt! Necessitatibus expedita perferendis quas.
+            Feel free to contact us if you have any questions or want more information! We are available as mentors between 10.00-17.00
             </p>
           </div>
           <div className="contact-right">
